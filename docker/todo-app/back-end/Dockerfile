@@ -1,1 +1,5 @@
-
+FROM node:14-alpine 
+COPY . .
+ADD /node_modules.tar.gz ./
+CMD ["/usr/local/bin/","npm start"]
+EXPOSE 3001
