@@ -8,15 +8,6 @@
       - [Utilizando o aplicativo de testes](#utilizando-o-aplicativo-de-testes)
       - [Dicas sobre a conteinerização de aplicações NodeJS](#dicas-sobre-a-conteinerização-de-aplicações-nodejs)
       - [Aproveitando os arquivos `node_modules.tar.gz`](#aproveitando-os-arquivos-node_modulestargz)
-### Trybe Todo-App 🖥️ 📝
-
-Olá! Esse é o aplicativo de tarefas **Trybe Todo-App**!
-
-Com ele, você pode se organizar de maneira simples, adicionando, marcando e/ou removendo suas tarefas.
-
-Uma verdadeira *mão-na-roda* para acompanhar seu progresso!
-
-![Alt Text](./intro.gif)
 
 #### Requisitos
 
